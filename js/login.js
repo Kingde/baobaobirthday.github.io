@@ -9,7 +9,7 @@ $('#login-button').click(function (event) {
         setTimeout(function(){location.href="cake.html";},3500);
     }
     else {
-        if(userName!="叶梦瑶") {
+        if(userName!="周肖宝") {
             alert("姓名错误！这好像不是为你准备的");
         }
         else {
